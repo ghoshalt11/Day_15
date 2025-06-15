@@ -1,0 +1,7 @@
+To access the Summary report, requested to go below link.
+
+Google Docs link - https://docs.google.com/document/d/1TCcw2BlKxCvEY7Tqsq83Qsft6oCOfEiiY6D4XmqP6EU/edit?tab=t.0
+
+To access demo video (walking through a sample basic code simulating basic RAG framwork) -
+
+https://drive.google.com/file/d/13-ZA3JK1nTE8ygsMe-1N6QfgzdPY90QH/view?usp=drive_link
